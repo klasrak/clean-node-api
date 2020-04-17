@@ -12,6 +12,8 @@
   "devDependencies": {
     "@types/node": "^13.11.1",
     "git-commit-msg-linter": "^2.4.2",
+    "husky": "^4.2.5",
+    "lint-staged": "^10.1.4",
     "prettier": "^2.0.4",
     "tslint": "^6.1.1",
     "tslint-config-prettier": "^1.18.0",
