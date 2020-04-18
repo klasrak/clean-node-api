@@ -17,6 +17,7 @@
   "devDependencies": {
     "@types/jest": "^25.2.1",
     "@types/node": "^13.11.1",
+    "@types/validator": "^13.0.0",
     "git-commit-msg-linter": "^2.4.2",
     "husky": "^4.2.5",
     "jest": "^25.3.0",
@@ -27,5 +28,8 @@
     "tslint-config-prettier": "^1.18.0",
     "tslint-plugin-prettier": "^2.3.0",
     "typescript": "^3.8.3"
+  },
+  "dependencies": {
+    "validator": "^13.0.0"
   }
 }
